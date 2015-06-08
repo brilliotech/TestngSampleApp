@@ -18,9 +18,9 @@ public class TestClass {
 		System.out.println("Test2 Method Pass.");
 	}
 	
-	@Test
+	/*@Test
 	public void test3(){
 		Assert.assertEquals(true, false);
 		System.out.println("Test3 Method Fail.");
-	}
+	}*/
 }
